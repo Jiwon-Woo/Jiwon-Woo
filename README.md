@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 경력
-- 중고나라 솔루션개발팀 인턴 (2023.03 ~ 2023.06)
-
 ### 프로젝트
 
 - [도서관 동아리 커뮤니티 웹 서비스](https://together.42jip.net)
