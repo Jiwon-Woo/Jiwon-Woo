@@ -36,11 +36,12 @@ Here are some ideas to get you started:
 
 ### 프로젝트
 
-- [도서관 동아리 커뮤니티 웹 서비스](https://together.42jip.net)
+[도서관 동아리 커뮤니티 웹 서비스](https://together.42jip.net)
   - [백엔드 기술 스택 JS + Express -> TS + NestJS 마이그레이션](https://github.com/Together42/nest-backend) (2023.10 ~ 진행중)
 
-- [42서울 도서 관리 웹 서비스](https://42library.kr)
+[42서울 도서 관리 웹 서비스](https://42library.kr)
   - [도서 관리 웹 서비스 검색 및 추천 기능 고도화](https://github.com/jiphyeonjeon-42/backend) (2023.08 ~ 2023.09)
+    - [도서 관리 웹 서비스 검색 기능 고도화 결과 보고서](https://jiwon-woo.github.io/%EB%8F%84%EC%84%9C-%EA%B4%80%EB%A6%AC-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B2%80%EC%83%89-%EA%B3%A0%EB%8F%84%ED%99%94)
   - [자체 도서 관리 웹 서비스 기획 및 제작](https://github.com/jiphyeonjeon-42/frontend) (2021.07 ~ 2022.07)
 
 ### 수상
