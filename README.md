@@ -57,5 +57,3 @@ Here are some ideas to get you started:
 
 ### 교육
 - 42Seoul 3기, 공통 과정 수료 (2020.12 ~ 2022.12)
-- 중앙대학교 응용통계학과 (2017.03 ~ 2024.02)
-
