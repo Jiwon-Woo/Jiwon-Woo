@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 호기심으로 시작한 개발에서 몰입의 즐거움을 경험하고 개발자의 길을 걷고 있습니다.
 <br/>
 경험을 중요시하여 새로운 기술에 대한 거부감 없이 빠르게 배우고 적응합니다.
+<br/>
+사용자 경험을 고려한 설계를 중요하게 생각합니다.
 
 ---
 
@@ -42,10 +44,10 @@ Here are some ideas to get you started:
 
 ### 프로젝트
 
-- [도서관 동아리 커뮤니티 웹 서비스](https://together.42jip.net)
+- 도서관 동아리 커뮤니티 웹 서비스
   - [백엔드 기술 스택 JS + Express -> TS + NestJS 마이그레이션](https://github.com/Together42/nest-backend) (2023.10 ~ 진행중)
 
-- [42서울 도서 관리 웹 서비스](https://42library.kr)
+- 42서울 도서 관리 웹 서비스
   - [도서 관리 웹 서비스 검색 및 추천 기능 고도화](https://github.com/jiphyeonjeon-42/backend) (2023.08 ~ 2023.09) -> [검색 기능 고도화 결과 보고서](https://jiwon-woo.github.io/%EB%8F%84%EC%84%9C-%EA%B4%80%EB%A6%AC-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B2%80%EC%83%89-%EA%B3%A0%EB%8F%84%ED%99%94)
   - [자체 도서 관리 웹 서비스 기획 및 제작](https://github.com/jiphyeonjeon-42/frontend) (2021.07 ~ 2022.07)
 
@@ -57,5 +59,8 @@ Here are some ideas to get you started:
 - TOPCIT 4수준 (2024.10)
 - 정보처리기사 (2021.08)
 
-### 교육
+### 대외활동
 - 42Seoul 3기, 공통 과정 수료 (2020.12 ~ 2022.12)
+
+### 교육
+- 중앙대학교 응용통계 학사 졸업 (2017.03 ~ 2024.02)
