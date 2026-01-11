@@ -1,4 +1,4 @@
-# 안녕하세요, 신입 개발자 우지원입니다.
+# 안녕하세요, 백엔드 개발자 우지원입니다.
 
 <!--
 **Jiwon-Woo/Jiwon-Woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,19 +24,20 @@ Here are some ideas to get you started:
 **🌱 I’m currently learning**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldnjs0607)](https://solved.ac/wldnjs0607)
 
 ---
 ### 경력
+- 스톤아이 개발팀 백엔드 (2024.03 ~ )
 - 중고나라 솔루션개발팀 인턴 (2023.03 ~ 2023.06)
 
 ### 프로젝트
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
   - __도서 관리 웹 서비스 검색 및 추천 기능 고도화__ 프로젝트
 
 ### 자격증
+- TOPCIT 4수준 (2024.10)
 - 정보처리기사 (2021.08)
 
 ### 교육
